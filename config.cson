@@ -1,0 +1,29 @@
+"*":
+  "atom-beautify":
+    c:
+      beautify_on_save: true
+    general:
+      _analyticsUserId: "c6bc2474-f4e8-4e16-938e-3940364252e1"
+    html:
+      beautify_on_save: true
+    js:
+      beautify_on_save: true
+    json:
+      beautify_on_save: true
+    tss:
+      beautify_on_save: true
+    typescript:
+      beautify_on_save: true
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    fontSize: 17
+  "exception-reporting":
+    userId: "82843d06-d44f-4c84-bfdf-47a1e2835b2a"
+  "linter-ui-default": {}
+  welcome:
+    showOnStartup: false
